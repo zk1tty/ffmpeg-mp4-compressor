@@ -1,0 +1,5 @@
+# pacakge modules
+node_modules/
+
+# credentails
+google-cloud-keyfile.json
